@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+    height: 100vh;
+    background-image: url('https://images.unsplash.com/photo-1484154218962-a197022b5858?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+}
+
+.homeContainer {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Rubik';
+    background-color: white;
+    border-radius: 16px;
+    padding: 50px;
+    max-width: 50%;
+  }
+  
+  h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+    font-family: 'Rubik';
+  }
+  
+  p {
+    font-family: 'Rubik';
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    margin: 20px 0;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #2a3139;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .cartInfo {
+    margin-top: 20px;
+  }
+  
+  .cart {
+    font-size: 18px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .cart:hover {
+    text-decoration: underline;
+  }
+  

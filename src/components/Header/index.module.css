@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #23272a;
+    padding: 1rem 2rem;
+    color: #fff;
+    font-family: 'Rubik';
+  }
+  
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .nav a {
+    margin-left: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .logout {
+    margin-left: 1.5rem;
+    background: none;
+    border: none;
+    color: #ffdddd;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .logout:hover {
+    color: #ff5555;
+  }
+  
+  .cart {
+    margin-left: 1.5rem;
+    position: relative;
+  }
+  
+  .cart::after {
+    content: '';
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background: #ff5555;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  
+  .logoutMessage {
+    margin-top: 10px;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .logoImg {
+    width: 40px;
+    height: auto;
+    margin-right: 10px;
+  }

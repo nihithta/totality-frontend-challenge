@@ -1,0 +1,74 @@
+.filters {
+    width: 250px;
+    padding: 1rem;
+    border-right: 1px solid #ddd;
+  }
+  
+  .filterGroup {
+    margin-bottom: 1rem;
+  }
+  
+  .filterGroup label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+  
+  .filterGroup input[type="text"],
+  .filterGroup input[type="number"],
+  .filterGroup select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .priceRange {
+    display: flex;
+    align-items: center;
+  }
+  
+  .priceRange input {
+    width: 100px;
+  }
+  
+  .priceRange span {
+    margin: 0 0.5rem;
+  }
+  
+  .amenities label {
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .applyButton {
+    background-color: #006699;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .applyButton:hover {
+    background-color: #00557a;
+  }
+  
+  .resetButton {
+    background-color: #ccc;
+    color: #333;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .resetButton:hover {
+    background-color: #999;
+  }
+  

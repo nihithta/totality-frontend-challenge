@@ -1,0 +1,390 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "title": "Cozy Apartment in Downtown",
+      "description": "A lovely apartment located in the heart of the city.",
+      "price": 120,
+      "location": "New York",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Air Conditioning",
+        "Kitchen"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8kA_qBr2KOTKNfw7gUxn8hDu6hNOCvldtig&s"
+    },
+    {
+      "id": "2",
+      "title": "Spacious Villa with Pool",
+      "description": "Enjoy your summer in this spacious villa with a private pool.",
+      "price": 300,
+      "location": "Los Angeles",
+      "bedrooms": 4,
+      "amenities": [
+        "Pool",
+        "WiFi",
+        "Parking"
+      ],
+      "image": "https://a0.muscache.com/pictures/75756707/5d76182c_original.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Modern Studio Near Park",
+      "description": "A modern studio apartment with a beautiful view of the park.",
+      "price": 80,
+      "location": "Chicago",
+      "bedrooms": 1,
+      "amenities": [
+        "WiFi",
+        "Heating"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2vQxLZOiZaQYtEy_h-UHOIq_EZjDB4LZQg&s"
+    },
+    {
+      "id": "4",
+      "title": "Luxury Penthouse with City View",
+      "description": "A top-floor penthouse with stunning city views.",
+      "price": 500,
+      "location": "Miami",
+      "bedrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Air Conditioning",
+        "Gym"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzU06pN7AXsgZ-DWyrMJSIcbbzGFJaGKBv-w&s"
+    },
+    {
+      "id": "5",
+      "title": "Beachfront Bungalow",
+      "description": "A serene beachfront bungalow perfect for a summer getaway.",
+      "price": 250,
+      "location": "Malibu",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Beach Access",
+        "Parking"
+      ],
+      "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTY5NDU3MTg%3D/original/fd7da4e1-5331-47e2-9cf4-45861864002e.jpeg?im_w=720"
+    },
+    {
+      "id": "6",
+      "title": "Rustic Cabin in the Woods",
+      "description": "A peaceful cabin surrounded by nature.",
+      "price": 150,
+      "location": "Denver",
+      "bedrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Fireplace",
+        "Hiking Trails"
+      ],
+      "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTM1NjU4OQ%3D%3D/original/7f396b11-6d07-4a71-86b9-5e56af99dd4b.jpeg?im_w=720"
+    },
+    {
+      "id": "7",
+      "title": "Urban Loft with Modern Design",
+      "description": "A stylish loft in the heart of the city.",
+      "price": 200,
+      "location": "San Francisco",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Gym",
+        "Rooftop Access"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1Nv8pLVQQ6vxwtjiyRbb4_oT0HptMg6DcA&s"
+    },
+    {
+      "id": "8",
+      "title": "Mountain Retreat with Scenic Views",
+      "description": "A mountain cabin offering breathtaking views.",
+      "price": 180,
+      "location": "Aspen",
+      "bedrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Fireplace",
+        "Hot Tub"
+      ],
+      "image": "https://images.squarespace-cdn.com/content/v1/55e0e4f8e4b04dab6ca51020/1601480269658-SG2YMUUT3DSK1ENB8EQ3/SmithCabin_HiRes046.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Lake House with Private Dock",
+      "description": "A spacious lake house with its own private dock.",
+      "price": 400,
+      "location": "Lake Tahoe",
+      "bedrooms": 4,
+      "amenities": [
+        "WiFi",
+        "Boat Dock",
+        "Fireplace"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20kti6VR6mOXHbgX3xDFsTrxhAzE8P08jDQ&s"
+    },
+    {
+      "id": "10",
+      "title": "Historic Home in Quiet Neighborhood",
+      "description": "A charming historic home with modern amenities.",
+      "price": 140,
+      "location": "Boston",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Parking",
+        "Garden"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTguify6Ay1oTSivAcCB3MhZD5dl1diZS8VYA&s"
+    },
+    {
+      "id": "11",
+      "title": "Historic Brownstone in the City",
+      "description": "Experience historic charm in this beautiful city brownstone.",
+      "price": 350,
+      "location": "Boston",
+      "bedrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Parking",
+        "Garden"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTproyoOYYaciG_WxQMaldck122X-_naBDAeQ&s"
+    },
+    {
+      "id": "12",
+      "title": "Seaside Retreat with Ocean View",
+      "description": "Enjoy the calming ocean views from this stunning seaside retreat.",
+      "price": 400,
+      "location": "Malibu",
+      "bedrooms": 5,
+      "amenities": [
+        "Ocean View",
+        "WiFi",
+        "Private Beach"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3iwNwCUYrCc3UwEo2_kpRSKS3wkM5eUKUA&s"
+    },
+    {
+      "id": "13",
+      "title": "Elegant Estate with Tennis Court",
+      "description": "Stay in this elegant estate complete with its own tennis court.",
+      "price": 700,
+      "location": "Beverly Hills",
+      "bedrooms": 6,
+      "amenities": [
+        "Tennis Court",
+        "WiFi",
+        "Pool"
+      ],
+      "image": "https://robbreport.com/wp-content/uploads/2022/01/Cielo2.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Rustic Barnhouse in Countryside",
+      "description": "A rustic barnhouse experience with modern amenities.",
+      "price": 160,
+      "location": "Nashville",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Garden",
+        "Parking"
+      ],
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR58DbHHvJfw7uiS1I2FwMnZpVExDMaA9zeHA&s"
+    },
+    {
+      "id": "15",
+      "title": "Minimalist Apartment Near Subway",
+      "description": "Modern minimalist apartment conveniently located near the subway.",
+      "price": 100,
+      "location": "Brooklyn",
+      "bedrooms": 1,
+      "amenities": [
+        "WiFi",
+        "Heating",
+        "Parking"
+      ],
+      "image": "https://s3.r29static.com/bin/entry/a68/x/1414364/image.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Chic Downtown Loft with Skyline View",
+      "description": "Enjoy panoramic skyline views from this chic downtown loft.",
+      "price": 350,
+      "location": "Dallas",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Rooftop Access",
+        "Gym"
+      ],
+      "image": "https://cdn.prod.website-files.com/6298896e3cd8b96e5bded05d/66b11b6cdc2ae284563712f0_63bda90dd147c1f490b4c3bb_the-interurban-building-lofts-dallas.webp"
+    },
+    {
+      "id": "17",
+      "title": "Sunny Bungalow with Private Garden",
+      "description": "Relax in this sunny bungalow with a private garden.",
+      "price": 180,
+      "location": "Phoenix",
+      "bedrooms": 2,
+      "amenities": [
+        "WiFi",
+        "Garden",
+        "Parking"
+      ],
+      "image": "https://via.placeholder.com/300x200?text=Property+17"
+    },
+    {
+      "id": "18",
+      "title": "Luxurious Chalet in Snowy Mountains",
+      "description": "A luxurious chalet nestled in the snowy mountains, perfect for a winter getaway.",
+      "price": 450,
+      "location": "Aspen",
+      "bedrooms": 5,
+      "amenities": [
+        "Hot Tub",
+        "WiFi",
+        "Ski Access"
+      ],
+      "image": "https://via.placeholder.com/300x200?text=Property+18"
+    },
+    {
+      "id": "19",
+      "title": "Beach House with Stunning Sunset Views",
+      "description": "Watch the sunset from this beautiful beach house with private beach access.",
+      "price": 600,
+      "location": "Santa Monica",
+      "bedrooms": 4,
+      "amenities": [
+        "WiFi",
+        "Private Beach",
+        "Fireplace"
+      ],
+      "image": "https://via.placeholder.com/300x200?text=Property+19"
+    },
+    {
+      "id": "20",
+      "title": "Modern Apartment in Business District",
+      "description": "A sleek, modern apartment in the heart of the business district.",
+      "price": 220,
+      "location": "Houston",
+      "bedrooms": 3,
+      "amenities": [
+        "WiFi",
+        "Gym",
+        "Parking"
+      ],
+      "image": "https://via.placeholder.com/300x200?text=Property+20"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "29a8",
+      "name": "Nihith",
+      "email": "rnt963@gmail.com",
+      "phone": "7330962093",
+      "payment": "54854586465",
+      "cart": [
+        {
+          "property": {
+            "id": "1",
+            "title": "Cozy Apartment in Downtown",
+            "description": "A lovely apartment located in the heart of the city.",
+            "price": 120,
+            "location": "New York",
+            "bedrooms": 2,
+            "amenities": [
+              "WiFi",
+              "Air Conditioning",
+              "Kitchen"
+            ],
+            "image": "https://via.placeholder.com/300x200?text=Property+1"
+          },
+          "quantity": 1,
+          "bookingDates": "2024-10-01 to 2024-10-05"
+        },
+        {
+          "property": {
+            "id": "2",
+            "title": "Spacious Villa with Pool",
+            "description": "Enjoy your summer in this spacious villa with a private pool.",
+            "price": 300,
+            "location": "Los Angeles",
+            "bedrooms": 4,
+            "amenities": [
+              "Pool",
+              "WiFi",
+              "Parking"
+            ],
+            "image": "https://via.placeholder.com/300x200?text=Property+2"
+          },
+          "quantity": 1,
+          "bookingDates": "2024-10-01 to 2024-10-05"
+        }
+      ],
+      "totalCost": 420,
+      "date": "2024-09-25T09:51:14.863Z"
+    },
+    {
+      "id": "8203",
+      "name": "Nihith",
+      "email": "rnt963@gmail.com",
+      "phone": "ewfewwegwg",
+      "payment": "423252352355",
+      "cart": [
+        {
+          "property": {
+            "id": "4",
+            "title": "Luxury Penthouse with City View",
+            "description": "A top-floor penthouse with stunning city views.",
+            "price": 500,
+            "location": "Miami",
+            "bedrooms": 3,
+            "amenities": [
+              "WiFi",
+              "Air Conditioning",
+              "Gym"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzU06pN7AXsgZ-DWyrMJSIcbbzGFJaGKBv-w&s"
+          },
+          "quantity": 1,
+          "bookingDates": "2024-10-01 to 2024-10-05"
+        }
+      ],
+      "totalCost": 500,
+      "date": "2024-09-25T17:56:26.974Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "avatar": "https://via.placeholder.com/50"
+    },
+    {
+      "name": "Raj",
+      "email": "raj@gmail.com",
+      "avatar": "none",
+      "id": "0955"
+    },
+    {
+      "id": "1608",
+      "name": "Jack",
+      "email": "lol@gmail.com",
+      "password": "efwefewfew",
+      "avatar": ""
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "userId": 1,
+      "propertyId": 2
+    }
+  ]
+}
